@@ -1,0 +1,41 @@
+/*classes always start with a dot or a period*/
+.firstDiv{
+  color:blue;
+}
+
+.secondDiv{
+  color:red;
+}
+
+/*ids use a hash tag*/
+#singledout{
+  color:green;
+  text-decoration:line-through;
+}
+
+/*asterisks can be used to select all elements except those with ids*/
+/*
+*{
+  color:black;
+}
+*/
+
+/*elements that are next to other elements can be specificied with the + sign*/
+/*the example below applies a style to all unordered elements adjacenet to an h3 tag*/
+
+h3 + ul {
+  border:4px dotted purple;
+}
+
+/*descendents include things like all anchor tags inside of a list*/
+
+li a{
+  color:red;
+}
+
+/*descendents can be specified with brackets*/
+
+li a[href="www.npr.org"]{
+  color:blue;
+  border: 5px solid orange;
+}
