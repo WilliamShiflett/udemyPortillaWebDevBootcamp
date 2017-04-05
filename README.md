@@ -1,2 +1,2 @@
 # udemyPortillaWebDevBootcamp
-Contains coding assignments from Web Development Bootcamp
+Contains coding samples and assignments from Jose Portilla's Python and Django full stack web developer bootcamp
