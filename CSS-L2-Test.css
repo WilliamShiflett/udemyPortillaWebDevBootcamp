@@ -1,0 +1,37 @@
+/*top right bottom left*/
+
+h1{
+  text-align:center;
+  font-family: 'Bilbo Swash Caps', cursive;
+}
+
+.art{
+  margin:auto;
+}
+
+td{
+  border:5px solid white;
+  width: 200px;
+  height: 350px;
+  padding: 10px 10px 10px 10px;
+}
+
+#one{
+  background-color: #BA1200;
+}
+
+#two{
+  background-color: #031927;
+}
+
+#three{
+  background-color: #9DD1F1;
+}
+
+#four{
+  background-color: #639FAB;
+}
+
+#five{
+  background-color: #C8E0F4;
+}
